@@ -1,0 +1,36 @@
+# Core Streaming
+pyspark==3.4.1
+kafka-python==2.0.2
+confluent-kafka==2.3.0
+
+# Machine Learning
+scikit-learn==1.3.2
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.11.3
+joblib==1.3.2
+
+# Snowflake
+snowflake-connector-python==3.5.0
+snowflake-sqlalchemy==1.5.1
+
+# Monitoring & Alerting
+prometheus-client==0.18.0
+slackclient==2.9.4
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0
+loguru==0.7.2
+retrying==1.3.4
+pyyaml==6.0.1
+
+# Testing
+pytest==7.4.3
+pytest-mock==3.12.0
+
+# Data Quality
+great-expectations==0.18.7
+
+# Serialization
+fastavro==1.8.4
